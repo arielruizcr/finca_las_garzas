@@ -70,7 +70,11 @@ body {
     margin-right: 20px;
     padding: 10px 15px;
     font-weight: inherit;
-    color: #130101;
+    color: #fff;
+}
+
+.navbar-menu {
+    background-color: #000000;
 }
 
 .nav__items--cta {
